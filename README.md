@@ -1,7 +1,7 @@
 <h1 align="center">Halo, saya lxnnewit 👋</h1>
 
 <p align="center">
-  Saya tertarik pada pengembangan web, integrasi API, otomatisasi, dan deployment aplikasi.
+  Iziinnnn.
 </p>
 
 <p align="center">
@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <em>_______.</em>
+  <em>__________________________________________________________________________________________________________________________________________________________</em>
 </p>
