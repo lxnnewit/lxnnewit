@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <em>Terus belajar, membangun, dan mengembangkan solusi yang bermanfaat.</em>
+  <em>_______.</em>
 </p>
