@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Halo, saya lxnnewit 👋</h1>
 
-<!--
-**lxnnewit/lxnnewit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Saya tertarik pada pengembangan web, integrasi API, otomatisasi, dan deployment aplikasi.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,python,fastapi,docker,linux,postgres&theme=dark" alt="Teknologi yang saya gunakan dan pelajari" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Terus belajar, membangun, dan mengembangkan solusi yang bermanfaat.</em>
+</p>
