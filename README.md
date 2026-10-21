@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya lxnnewit 👋</h1>
+<h1 align="center">Hello World! 👋</h1>
 
 <p align="center">
   Iziinnnn.
