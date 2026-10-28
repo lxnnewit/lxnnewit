@@ -4,9 +4,9 @@
   Iziinnnn.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,python,fastapi,docker,linux,postgres&theme=dark" alt="Teknologi yang saya gunakan dan pelajari" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <em>__________________________________________________________________________________________________________________________________________</em>
